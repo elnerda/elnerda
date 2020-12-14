@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaetano Fresa</h1>
-<h3 align="center">A sysadmin and Docker Engineer from german</h3>
+<h3 align="center">A sysadmin and Docker Engineer from germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elnerda&label=Profile%20views&color=0e75b6&style=flat" alt="elnerda" /> </p>
 
