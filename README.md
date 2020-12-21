@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elnerda&label=Profile%20views&color=0e75b6&style=flat" alt="elnerda" /> </p>
 
-- 🌱 I’m currently learning **Ansible, Swarm, Kubernetes**
+- 🌱 I’m currently learning **Ansible, Docker Swarm, Kubernetes**
 
 - 💬 Ask me about **docker!**
 
