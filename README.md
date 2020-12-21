@@ -4,7 +4,7 @@
 
 - 🤖 I’m currently learning **Ansible, Docker Swarm, Kubernetes**
 
-- 💬 Ask me about **docker!**
+- 💬 Ask me about **Docker!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
