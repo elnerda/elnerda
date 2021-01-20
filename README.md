@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gaetano Fresa</h1>
-<h3 align="center">A sysadmin and Docker Engineer from germany</h3>
 
 
 - 🤖 I’m currently learning **Ansible, Docker Swarm, Kubernetes**
