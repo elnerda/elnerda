@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaetano Fresa</h1>
-🌱 I’m currently learning **Ansible, Swarm, Kubernetes**
+- 🌱 I’m currently learning **Ansible, Swarm, Kubernetes**
 
-💬 Ask me about **docker!**
+- 💬 Ask me about **docker!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
