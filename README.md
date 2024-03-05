@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🐧, I'm Gaetano Fresa</h1>
-- Hi, I'm a Systems Engineer at [PROSTEP AG](https://www.prostep.com)
+- Hi, I'm a Systems Engineer at https://www.prostep.com
 
 - 🌱 I’m currently learning **Ansible, Kubernetes, Terraform**
 
