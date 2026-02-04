@@ -54,7 +54,7 @@
 
 ## 📫 Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gaetanoxfrs)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://instagram.com/gaetanoxfrs](https://www.instagram.com/gtnxfrs/))
 
 ---
 
