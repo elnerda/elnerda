@@ -2,8 +2,8 @@
 
 **Systems Engineer | Linux & DevOps Specialist**
 
-🏢 Working at [ProSTEP AG](https://www.prostep.com) for 8+ years  
-🐧 Managing ~100 Linux servers (openSUSE/SLES) as the sole Linux/DevOps specialist  
+🏢 Working at [PROSTEP AG](https://www.prostep.com) for 8+ years  
+🐧 Managing Linux servers (openSUSE/Debian/Ubuntu) as a Linux/DevOps specialist  
 🔧 Building and maintaining enterprise DevOps infrastructure
 
 ## 🚀 What I Do
